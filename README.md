@@ -5,6 +5,8 @@ hi, this is a very customisable version of the zing tech bot for whitelisting ur
 
 1. clone this repo with `git clone https://github.com/iPanda969/whitelistbot`
 
+[![Run on Repl.it](https://repl.it/badge/github/axivl/whitelistbot)](https://repl.it/github/axivl/whitelistbot)
+
 2. run `npm i` to install the required packages
 
 3. make 3 new files in the main directory of ur bot `.env`, `products.json` and `links.json` (fill in the json files like below)
